@@ -9,3 +9,4 @@ Professor Marco Antonio
 * **Aula 01:** Apresentação e conceitos iniciais
 * **Aula 02:** Atribuição: entrada e saída
 * **Aula 03:** Operadores
+* **Aula 04:** Estruturas de decisão
