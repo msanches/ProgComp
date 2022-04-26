@@ -10,3 +10,7 @@ Professor Marco Antonio
 * **Aula 02:** Atribuição: entrada e saída
 * **Aula 03:** Operadores
 * **Aula 04:** Estruturas de decisão
+* **Aula 05:** Decisão aninhada
+* **Aula 06:** Exercícios
+* **Aula 07:** Estruturas de repetição
+* **Aula 08:** Exercícios
