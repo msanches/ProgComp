@@ -7,7 +7,7 @@
 Professor Marco Antonio
 
 ## Conteúdos de aula:
-* **Aula 01:** Apresentação e conceitos iniciais
+* **[Aula 01:](https://github.com/msanches/ProgComp/tree/main/Aula%2001)** Apresentação e conceitos iniciais
 * **Aula 02:** Atribuição: entrada e saída
 * **Aula 03:** Operadores
 * **Aula 04:** Estruturas de decisão
