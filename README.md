@@ -1,5 +1,5 @@
 # Programação de Computadores
-#### Repositório de exemplos e exercícios da disciplina de Programação de Computadores (CCP && TADS)
+#### Repositório de exemplos e exercícios da disciplina de Programação de Computadores (CCP && TADS && GTI)
  
 ![](http://dwebkit.esy.es/repositorio/python-logo-3.6.gif)
 
