@@ -1,7 +1,6 @@
 # Programação de Computadores
-## Universidade Cruzeiro do Sul.
-#### Repositório de exemplos e exercícios da disciplina de Programação de Computadores (CCP && TADS && GTI)
-
+<!-- ## Universidade Cruzeiro do Sul. -->
+#### Repositório de exemplos e exercícios da disciplina de Programação de Computadores com Python
 [![Stars](https://img.shields.io/github/stars/msanches/ProgComp?style=flat-square)](https://github.com/msanches/ProgComp/stargazers)
 [![Fork](https://img.shields.io/github/forks/msanches/ProgComp?style=flat-square)](https://github.com/msanches/ProgComp/fork)
 
@@ -18,3 +17,6 @@ Professor Marco Antonio
 * **[Aula 06:](https://github.com/msanches/ProgComp/tree/main/Aula%2001)** Exercícios
 * **[Aula 07:](https://github.com/msanches/ProgComp/tree/main/Aula%2001)** Estruturas de repetição
 * **[Aula 08:](https://github.com/msanches/ProgComp/tree/main/Aula%2001)** Exercícios
+* **[Aula 09:](https://github.com/msanches/ProgComp/tree/main/Aula%2001)** Strings
+* **[Aula 10:](https://github.com/msanches/ProgComp/tree/main/Aula%2001)** Listas
+* **[Aula 11:](https://github.com/msanches/ProgComp/tree/main/Aula%2001)** Métodos
