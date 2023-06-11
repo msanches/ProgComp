@@ -12,11 +12,11 @@ Professor Marco Antonio
 * **[Aula 01:](https://github.com/msanches/ProgComp/tree/main/Aula%2001)** Apresentação e conceitos iniciais
 * **[Aula 02:](https://github.com/msanches/ProgComp/tree/main/Aula%2002)** Atribuição: entrada e saída
 * **[Aula 03:](https://github.com/msanches/ProgComp/tree/main/Aula%2003)** Operadores
-* **[Aula 04:](https://github.com/msanches/ProgComp/tree/main/Aula%2001)** Estruturas de decisão
-* **[Aula 05:](https://github.com/msanches/ProgComp/tree/main/Aula%2001)** Decisão aninhada
-* **[Aula 06:](https://github.com/msanches/ProgComp/tree/main/Aula%2001)** Exercícios
-* **[Aula 07:](https://github.com/msanches/ProgComp/tree/main/Aula%2001)** Estruturas de repetição
-* **[Aula 08:](https://github.com/msanches/ProgComp/tree/main/Aula%2001)** Exercícios
-* **[Aula 09:](https://github.com/msanches/ProgComp/tree/main/Aula%2001)** Strings
-* **[Aula 10:](https://github.com/msanches/ProgComp/tree/main/Aula%2001)** Listas
-* **[Aula 11:](https://github.com/msanches/ProgComp/tree/main/Aula%2001)** Métodos
+* **[Aula 04:](https://github.com/msanches/ProgComp/tree/main/Aula%2004)** Estruturas de decisão
+* **[Aula 05:](https://github.com/msanches/ProgComp/tree/main/Aula%2005)** Decisão aninhada
+* **[Aula 06:](https://github.com/msanches/ProgComp/tree/main/Aula%2006)** Exercícios
+* **[Aula 07:](https://github.com/msanches/ProgComp/tree/main/Aula%2007)** Estruturas de repetição
+* **[Aula 08:](https://github.com/msanches/ProgComp/tree/main/Aula%2008)** Exercícios
+* **[Aula 09:](https://github.com/msanches/ProgComp/tree/main/Aula%2009)** Strings
+* **[Aula 10:](https://github.com/msanches/ProgComp/tree/main/Aula%2010)** Listas
+* **[Aula 11:](https://github.com/msanches/ProgComp/tree/main/Aula%2011)** Métodos
