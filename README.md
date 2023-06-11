@@ -20,3 +20,4 @@ Professor Marco Antonio
 * **[Aula 09:](https://github.com/msanches/ProgComp/tree/main/Aula%2009)** Strings
 * **[Aula 10:](https://github.com/msanches/ProgComp/tree/main/Aula%2010)** Listas
 * **[Aula 11:](https://github.com/msanches/ProgComp/tree/main/Aula%2011)** Métodos
+* [<b>Python CheatSheet</b>](https://github.com/msanches/pythonCheatSheet)
