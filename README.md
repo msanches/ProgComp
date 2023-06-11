@@ -1,8 +1,9 @@
 # Programação de Computadores
 <!-- ## Universidade Cruzeiro do Sul. -->
-#### Repositório de exemplos e exercícios da disciplina de Programação de Computadores com Python
 [![Stars](https://img.shields.io/github/stars/msanches/ProgComp?style=flat-square)](https://github.com/msanches/ProgComp/stargazers)
 [![Fork](https://img.shields.io/github/forks/msanches/ProgComp?style=flat-square)](https://github.com/msanches/ProgComp/fork)
+
+#### Repositório de exemplos e exercícios da disciplina de Programação de Computadores com Python
 
 ![](http://dwebkit.esy.es/repositorio/python-logo-3.6.gif)
 
